@@ -17,6 +17,7 @@ b) Data Manipulation: Insert, update, and delete records in various tables to ke
 
 c) Data Aggregation: Summarize data such as the count of books in each category or the number of employees in each branch.
 
+
 Example SQL Queries:
 
 a) Retrieve available books: Get the titles, categories, and rental prices of all books currently available for rent.
