@@ -10,6 +10,7 @@ Key Components:
 6) ReturnStatus Table: Manages returned books with return ID (primary key), customer ID, book name, return date, and ISBN (foreign key referencing Books table).
 
 Key Methods:
+
 a) Data Retrieval: Efficiently fetch data such as available books, employee salaries, book issuance records, and more.
 
 b) Data Manipulation: Insert, update, and delete records in various tables to keep the database current.
