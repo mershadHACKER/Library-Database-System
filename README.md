@@ -11,7 +11,9 @@ Key Components:
 
 Key Methods:
 a) Data Retrieval: Efficiently fetch data such as available books, employee salaries, book issuance records, and more.
+
 b) Data Manipulation: Insert, update, and delete records in various tables to keep the database current.
+
 c) Data Aggregation: Summarize data such as the count of books in each category or the number of employees in each branch.
 
 Example SQL Queries:
