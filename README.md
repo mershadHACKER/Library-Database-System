@@ -18,8 +18,11 @@ b) Data Manipulation: Insert, update, and delete records in various tables to ke
 c) Data Aggregation: Summarize data such as the count of books in each category or the number of employees in each branch.
 
 Example SQL Queries:
+
 a) Retrieve available books: Get the titles, categories, and rental prices of all books currently available for rent.
+
 b) List employee salaries: Display employee names and salaries in descending order.
+
 c) Issued books and customers: Fetch the titles of books issued along with the corresponding customer names.
 
 This project provides a robust foundation for managing a library's data and operations, ensuring efficient tracking of books, employees, and customers. It includes SQL scripts for setting up the database, creating tables, and performing common queries, making it a valuable resource for library management and data analysis.
